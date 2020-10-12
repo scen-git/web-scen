@@ -20,9 +20,9 @@ defined('BASEPATH') or exit('No direct script access allowed');
         <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">SCeN</a>
             <ul class="right hide-on-med-and-down">
                 <li><a href="<?= base_url(); ?>">Beranda</a></li>
-                <li><a href="#">Tentang</a></li>
-                <li><a href="#">Kontak</a></li>
-                <li><a class="waves-effect waves-light btn light-blue darken-3" href="#">Blog</a></li>
+                <li><a href="<?= base_url('tentang'); ?>">Tentang</a></li>
+                <li><a href="<?= base_url('kontak'); ?>">Kontak</a></li>
+                <li><a class="waves-effect waves-light btn yellow darken-1 grey-text text-darken-4" href="#">Blog</a></li>
             </ul>
 
             <ul id="nav-mobile" class="sidenav">

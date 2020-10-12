@@ -15,7 +15,7 @@
             <div class="col m3 s12">
                 <h5 class="white-text">Media Sosial</h5>
                 <ul>
-                    <li><a class="grey-text text-lighten-3" href="#!">Instagram</a></li>
+                    <li><a class="grey-text text-lighten-3" href="https://www.instagram.com/scenofficial/" target="_blank">Instagram</a></li>
                 </ul>
             </div>
         </div>
